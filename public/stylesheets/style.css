@@ -1,0 +1,18 @@
+#body {
+	flex-direction: row;
+	justify-content: center;
+	align-items: center;
+	background-color: dimgrey;
+	color: floralwhite;
+	text-align: center;
+	align-items: center;
+}
+
+a {
+	display: flex;
+	align-items: baseline;
+	flex-direction: row;
+	justify-content: center;
+	align-items: center;
+	color: floralwhite;
+}
